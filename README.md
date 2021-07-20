@@ -1,2 +1,1 @@
-# something-interesting
-一些自己的学习资料以及实习项目
+工控实习写的PLC程序以及MCGS组态界面
